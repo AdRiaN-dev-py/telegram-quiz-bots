@@ -15,4 +15,4 @@
  1. Скачай репозиторий
  2. Установи библиотеки:
     ```bash
-   pip install pyTelegramBotAPI python-dotenv
+    pip install pyTelegramBotAPI python-dotenv
